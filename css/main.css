@@ -48,8 +48,10 @@ h2 {
   position: absolute;
   top: -.7em;
   background-color: #fff;
+  transform: translateX(-50%);
   color: #ccc;
   font-size: .5rem;
+  text-transform: uppercase;
   font-family: sans-serif;
 }
 
